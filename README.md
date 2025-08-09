@@ -1,4 +1,3 @@
-# Hello
 Testing stuff (2017)
 
 8/8/2025
